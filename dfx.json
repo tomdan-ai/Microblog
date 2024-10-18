@@ -1,0 +1,25 @@
+{
+  "canisters": {
+    "Microblog_backend": {
+      "main": "src/Microblog_backend/main.mo",
+      "type": "motoko"
+    },
+    "Microblog_frontend": {
+      "dependencies": [
+        "Microblog_backend"
+      ],
+      "source": [
+        "src/Microblog_frontend/assets"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
