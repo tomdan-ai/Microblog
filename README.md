@@ -4,6 +4,7 @@ A simple decentralized microblogging platform built with **Motoko** on the **Int
 
 ## Table of Contents
 - [Features](#features)
+- [DAPP Demo](#dapp-demo)
 - [Future Features](#future-features)
 - [Installation](#installation)
 - [Deploying Locally](#deploying-locally)
@@ -18,6 +19,10 @@ A simple decentralized microblogging platform built with **Motoko** on the **Int
 - Posts are immutable and cannot be deleted or edited.
 - Each post has a unique ID and timestamp.
 - Retrieve and view all posts submitted by users.
+
+## Dapp Demo
+Below is the live demo of Microblog on the ICP mainnet
+### [MICROBLOG](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=rekcc-giaaa-aaaaj-qndaq-cai)
 
 ## Future Features
 - **User Authentication**: Support for authenticated users to make personalized posts.
