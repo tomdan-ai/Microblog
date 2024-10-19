@@ -86,6 +86,7 @@ dfx identity new <your-identity-name>
 ## Acknowledgements
 - Special thanks to the ICP (Internet Computer Protocol) Group for the amazing platform and resources.
 - Shoutout to the I-Code Cohort Uniuyo Community for the support and inspiration in building this project.
+- Special thanks to [Daniel Taiwo](https://x.com/danierealistic) and [Samuel Oguntimehin](https://x.com/samuelOtimehin) for the tutilage. 
 
 ## Author
 Developed by Tom Udoh, a full-stack web developer and blockchain enthusiast, as part of his journey into decentralized applications on the Internet Computer
